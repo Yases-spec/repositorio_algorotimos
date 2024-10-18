@@ -14,4 +14,4 @@ def ordenacaoporSelecao(arr):
         novoArr.append(arr.pop(menor))
     return novoArr
 
-print(ordenacaoporSelecao,([5,3,6,2,10]))
+print(ordenacaoporSelecao,[5,3,6,2,10])
