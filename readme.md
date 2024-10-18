@@ -1,1 +1,2 @@
-Um repósitorio criado contendo código do livro  ALGOROTIMOS     
+Um repósitorio criado contendo códigos do livro  ALGOROTIMOS. 
+    
